@@ -2,7 +2,6 @@
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Keerthan-26/Keerthan-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
